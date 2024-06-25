@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Madhura79
+- 👋 Hi, I’m @Madhura Narkhede
 - 👀 I’m interested in basic coding.
 - 🌱 I’m currently learning c and c++ language.
 - 💞️ I’m looking to collaborate on my 2nd year project.
