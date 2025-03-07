@@ -1,10 +1,7 @@
 - Hi, I’m Madhura Narkhede 👋
-👀 Interests: Passionate about coding, problem-solving, and building user-friendly applications. I enjoy working on innovative projects and staying updated with emerging technologies.
-🌱 Currently Learning: Exploring web development and programming with HTML, CSS, JavaScript, C, and Python, while also diving deeper into advanced coding techniques and algorithms.
-💡 Collaboration: Thrilled to collaborate on my third-year project, where I aim to apply my skills, work effectively in a team, and contribute to impactful solutions.
-💻 Skills: Proficient in frontend technologies and programming languages, with hands-on experience building projects like a Snapchat clone and an Amazon clone.
-📫 Reach Me: Feel free to leave a message on my GitHub profile—I’m eager to connect, learn, and grow through exciting collaborations.
-⚡ Fun Fact: I love blending creativity with logic to design interactive user interfaces, and I’m always up for a debugging challenge!
+I am a passionate and dedicated coder with a strong interest in Full Stack Development. I love exploring new technologies and continuously improving my skills to build innovative and meaningful solutions. Along with this, I am also keen on Machine Learning and its applications, aiming to leverage AI-driven technologies to solve real-world problems. I am eager to work in a dynamic environment where I can apply my knowledge, collaborate with like-minded individuals, and contribute to impactful projects that make a difference.
+
+
 
 
 <!---
